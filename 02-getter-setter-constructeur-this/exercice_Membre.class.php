@@ -64,4 +64,6 @@ $membre->setMdp(12345);
 
 echo "Mon compte est Nom : " . $membre->getPseudo() . ", Mdp = " . $membre->getMdp() . "<br><br>";
 
+echo "fin";
+
 ?>
